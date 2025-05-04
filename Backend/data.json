@@ -1,0 +1,10 @@
+[
+    {
+        "pending_slip": 33,
+        "reject_slip": 41,
+        "upload_document": 21,
+        "under_process_pan": 36,
+        "object_document": 91,
+        "approved_pan": 34
+    }
+]
